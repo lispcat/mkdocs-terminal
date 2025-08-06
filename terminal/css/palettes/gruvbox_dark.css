@@ -32,7 +32,8 @@
     --gb-dm-light-aqua: #8ec07c;
     --gb-dm-light-orange: #f38019;
     --gb-dm-light-gray: #a89984;
-    --global-font-size: 15px;
+    /* --global-font-size: 15px; */
+    --global-font-size: 10px;
     --global-line-height: 1.4em;
     --global-space: 10px;
     --font-stack: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
