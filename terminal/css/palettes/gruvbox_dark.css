@@ -2,9 +2,12 @@
 
 :root {
     /* Background */
-    --gb-dm-bg0: #282828;
-    --gb-dm-bg0-hard: #1d2021;
-    --gb-dm-bg0-soft: #32302f;
+    --gb-dm-bg0: #FFFFFF;
+    --gb-dm-bg0-hard: #FFFFFF;
+    --gb-dm-bg0-soft: #FFFFFF;
+    /* --gb-dm-bg0: #282828; */
+    /* --gb-dm-bg0-hard: #1d2021; */
+    /* --gb-dm-bg0-soft: #32302f; */
     --gb-dm-bg1: #3c3836;
     --gb-dm-bg2: #504945;
     --gb-dm-bg3: #665c54;
@@ -32,8 +35,7 @@
     --gb-dm-light-aqua: #8ec07c;
     --gb-dm-light-orange: #f38019;
     --gb-dm-light-gray: #a89984;
-    /* --global-font-size: 15px; */
-    --global-font-size: 10px;
+    --global-font-size: 15px;
     --global-line-height: 1.4em;
     --global-space: 10px;
     --font-stack: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
